@@ -9,10 +9,11 @@ This project focuses on analyzing Key Performing Indicators of sales, profits & 
 ✅ To generate actionable insights for strategic decision-making
 
 ✨ **Key Features of the Dashboard:**
-Dynamic filtering to explore insights by [categories like time, region, product, etc.]
-Visualizations like [e.g., bar charts, line graphs, heatmaps] to highlight trends
-KPIs to track performance at a glance
-🔗 Learning Experience:
+Dynamic filtering to explore insights by categories like country, product, time, sales & discounts margins.
+Visualizations like bar charts, line graphs to highlight the trends, profits and Loss.
+KPIs to track performance at a glance.
+
+🔗 **Learning Experience:**
 Through this project, I’ve gained hands-on experience in:
 📊 Data modeling and DAX formulas
 📌 Creating user-friendly and interactive dashboards
